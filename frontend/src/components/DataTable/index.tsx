@@ -1,5 +1,3 @@
-import ImgDsDark from 'assets/img/ds_dark.svg'
-
 function DataTable() {
     return (
             <div className="table-responsive">
